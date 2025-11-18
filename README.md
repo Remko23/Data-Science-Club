@@ -1,1 +1,3 @@
-ZADANIA Z KÓŁKA NAUKOWEGO DATA SCIENCE CLUB
+## **Kółko Naukowe Data Science Club**
+---
+Rozwiązania zadań z Data Science Club
