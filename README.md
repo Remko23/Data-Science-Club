@@ -1,5 +1,5 @@
-## **Kółko Naukowe Data Science Club**
+# **Kółko Naukowe Data Science Club**
 ---
-# MMR
+## MMR
 
-# Data Imputation
+## Data Imputation
